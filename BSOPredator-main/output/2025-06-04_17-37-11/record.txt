@@ -1,0 +1,17 @@
+Predators=8, Grid=30*30
+Moves=41
+Moves=56
+Moves=53
+Moves=51
+Moves=76
+Moves=40
+Moves=45
+Moves=27
+Moves=49
+Moves=69
+Moves=61
+Moves=64
+Moves=55
+Moves=63
+Moves=28
+Moves=37
